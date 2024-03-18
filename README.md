@@ -12,4 +12,4 @@ Username dicoding: andreasnb12
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
 | Metrik evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
 | Performa model | Deksripsi performa model yang dibuat |
-# ML-Pipeline
+
