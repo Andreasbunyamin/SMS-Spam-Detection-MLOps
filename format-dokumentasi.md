@@ -1,11 +1,11 @@
 # Submission 1: Nama Proyek Anda
-Nama:
+Nama: Andreas Natanael Bunyamin
 
-Username dicoding:
+Username dicoding: andreasnb12
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [nama dataset](https://www.kaggle.com/) |
+| Dataset | [Heart Failure Prediction Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)) |
 | Masalah | Deskripsi masalah yang di angkat |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
